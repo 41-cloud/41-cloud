@@ -1,4 +1,4 @@
-## Hi there 👋
+## こんにちは
 scratch https://scratch.mit.edu/users/s-cloud/
 <!--
 **41-cloud/41-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
